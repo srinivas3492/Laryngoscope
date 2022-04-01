@@ -1,1 +1,6 @@
-# Larynoscope
+# Laryngoscope
+A direct laryngoscopy allows visualization of the larynx. It is used during general anesthesia, surgical procedures around the larynx, and resuscitation. This tool is useful in multiple hospital settings, from the emergency department to the intensive care unit and the operating room. By visualizing the larynx, endotracheal intubation is facilitated. This is an important step for a range of patients who are unable to secure their own airway, including those with altered mental status and those who are undergoing a surgical procedure. When using direct laryngoscopy to secure a patient's airway, the physician must be well acquainted with the anatomy, indications, contraindications, preparation, equipment, proper technique, personnel, and complications of the procedure for successful endotracheal intubation
+# Video laryngoscope
+Compared to viewing the larynx from outside the oral cavity by a direct line of sight approach with direct laryngoscopy, video laryngoscopes provide an indirect view by having a camera lens close to the tip of the blade nearer to the larynx. This results in a much wider angle of view compared to direct laryngoscopy.
+video laryngoscope blades contain a recessed light source and a camera generally positioned in the middle of the blade. The light source and camera are powered either from the monitor or by an internal battery.
+ 
